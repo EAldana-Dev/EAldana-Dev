@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Emiliano Aldana 👋
 
-<!--
-**EAldana-Dev/EAldana-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at **CECyT 9 "Juan de Dios Bátiz" (IPN)**.
 
-Here are some ideas to get you started:
+💻 **Tech Stack:**
+- 🐧 **OS:** Linux (Enthusiast & Power User)
+- 🕹️ **Game Dev:** Unity & C#
+- ☕ **Backend:** Java
+- 🔧 **Tools:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Currently:**
+- Deepening my knowledge in Software Engineering fundamentals.
+- Looking for mentorship and open source collaboration opportunities.
