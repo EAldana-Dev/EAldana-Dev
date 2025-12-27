@@ -1,13 +1,13 @@
-### Hi there, I'm Emiliano Aldana 👋
+### Hi, I'm Emiliano Aldana 
 
-🎓 Computer Science Student at **CECyT 9 "Juan de Dios Bátiz" (IPN)**.
+Student at **CECyT 9**.
 
 💻 **Tech Stack:**
-- 🐧 **OS:** Linux (Enthusiast & Power User)
-- 🕹️ **Game Dev:** Unity & C#
-- ☕ **Backend:** Java
-- 🔧 **Tools:** Git & GitHub
+- **OS:** Linux
+- **Game Dev:** Unity & C#
+- **Backend:** Java
+- **Tools:** Git & GitHub
 
 🚀 **Currently:**
-- Deepening my knowledge in Software Engineering fundamentals.
+- Deepening my knowledge in Software Engineering fundamentals and cibersecurity (Etical Hacking).
 - Looking for mentorship and open source collaboration opportunities.
